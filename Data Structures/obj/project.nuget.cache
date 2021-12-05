@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iC/RHhi85KJox+vuIxRCviRhZk7tqi0i+tWizmLaEZbPuiFrNwIiRzVYQ8Q53pO9TRAx/mReljJUDrW/OEt7Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArkadiyG\\Desktop\\My Projects\\Data Structures Final Project\\Data Structures\\Data Structures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArkadiyG\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ArkadiyG\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

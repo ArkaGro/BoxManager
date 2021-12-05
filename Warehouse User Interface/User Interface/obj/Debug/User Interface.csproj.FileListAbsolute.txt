@@ -1,0 +1,40 @@
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.csprojAssemblyReference.cache
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\MainWindow.g.cs
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\App.g.cs
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface_MarkupCompile.cache
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface_MarkupCompile.lref
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\User Interface.exe.config
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\User Interface.exe
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\User Interface.pdb
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\Boxes Management.dll
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\Data Structures.dll
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\Boxes Management.pdb
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\Data Structures.pdb
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\MainWindow.baml
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.g.resources
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User_Interface.Properties.Resources.resources
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.csproj.GenerateResource.cache
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.csproj.CoreCompileInputs.cache
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.csproj.CopyComplete
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.exe
+C:\Users\ArkadiyG\Desktop\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.pdb
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\User Interface.exe.config
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\User Interface.exe
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\User Interface.pdb
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\Boxes Management.dll
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\Data Structures.dll
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\Boxes Management.pdb
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\bin\Debug\Data Structures.pdb
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.csprojAssemblyReference.cache
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\MainWindow.g.cs
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\App.g.cs
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface_MarkupCompile.cache
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface_MarkupCompile.lref
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\MainWindow.baml
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.g.resources
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User_Interface.Properties.Resources.resources
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.csproj.GenerateResource.cache
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.csproj.CoreCompileInputs.cache
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.csproj.CopyComplete
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.exe
+C:\Users\ArkadiyG\Desktop\My Projects\Data Structures Final Project\Warehouse User Interface\User Interface\obj\Debug\User Interface.pdb
